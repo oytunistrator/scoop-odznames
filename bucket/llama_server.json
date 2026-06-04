@@ -1,10 +1,9 @@
 {
-  "bin": "llama-server",
+  "version": "1.0",
+  "description": "llama-server",
+  "homepage": "https://pub.odznames.com/llama-server/",
+  "license": "MIT",
   "url": "https://pub.odznames.com/llama-server/llama-server.zip",
-  "depends": "",
-  "homepage": "",
-  "extract_dir": "",
-  "license": "",
   "hash": "",
-  "version": "1.0"
+  "bin": "llama-server"
 }
